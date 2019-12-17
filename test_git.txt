@@ -1,2 +1,3 @@
 Hari ini belajar menggunakan Git Repositori
 User lain menambahkan kalimat
+Juga menambahkan yang satu ini
